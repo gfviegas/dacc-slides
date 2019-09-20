@@ -1,0 +1,15 @@
+$lemon: #CCFF00
+$green: #56FF00
+$cyan: #06FFA7
+$black: #000000
+$gray-dark: #2C2C2C
+$gray-light: #767676
+$pink: #ff0543
+$orange: #ff7c2e
+$brown: #551a25
+
+@mixin gradient($direction, $list)
+  background: -webkit-linear-gradient($direction, $list)
+  background: -moz-linear-gradient($direction, $list)
+  background: -o-linear-gradient($direction, $list)
+  background: linear-gradient($direction, $list)
