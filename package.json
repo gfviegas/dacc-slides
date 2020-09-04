@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "vue": "^2.1.10",
     "vue-image-preloader": "^0.2.8",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-router": "^2.2.0",
     "vue-star-rating": "^1.6.1"
   },
