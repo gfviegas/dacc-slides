@@ -19,7 +19,7 @@
     "chart.js": "2.5.0",
     "eagle.js": "^0.4.1",
     "highlight.js": "^9.12.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.1.10",
     "vue-image-preloader": "^0.2.8",
     "vue-moment": "^4.0.0",
